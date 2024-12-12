@@ -10,7 +10,7 @@ function Root() {
           <ul>
             <li><Link to="/">Inicio</Link></li>
             <li><Link to="/blog">Blog</Link></li>
-            <li><Link to="/eventos">Eventos</Link></li>
+            <li><Link to="/eventos/1">Eventos</Link></li>
           </ul>
         </nav>
       </header>
