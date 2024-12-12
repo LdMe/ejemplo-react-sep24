@@ -1,0 +1,7 @@
+.blog {
+    background-color: #fabada;
+}
+
+.blog:hover {
+    background-color: aqua;
+}
